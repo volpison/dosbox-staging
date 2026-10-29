@@ -27,6 +27,7 @@ add_subdirectory(loguru)
 add_subdirectory(manymouse)
 add_subdirectory(mverb)
 add_subdirectory(nuked)
+add_subdirectory(cqm)
 
 if (OPT_DEBUGGER)
 add_subdirectory(imgui)
