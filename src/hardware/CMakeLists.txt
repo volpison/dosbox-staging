@@ -88,6 +88,7 @@ target_link_libraries(dosboxcommon PRIVATE
   riffcpp
   talchorus
   nuked
+  cqm
   plmpeg
   PkgConfig::SPEEXDSP
 )
